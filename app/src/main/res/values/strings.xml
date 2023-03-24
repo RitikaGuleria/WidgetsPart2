@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">WidgetsPart2</string>
+    <string-array name="countries">
+        <item>USA</item>
+        <item>AUSTRALIA</item>
+        <item>ARGENTINA</item>
+        <item>INDIA</item>
+        <item>ITALY</item>
+        <item>INDONESIA</item>
+        <item>JAPAN</item>
+        <item>CHINA</item>
+        <item>MEXICO</item>
+        <item>NEW ZEALAND</item>
+        <item>TURKEY</item>
+        <item>KOREA</item>
+        <item>BUTAN</item>
+        <item>BHANGLADESH</item>
+    </string-array>
+</resources>
